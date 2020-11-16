@@ -1,13 +1,13 @@
 ---
 layout: post
-title: NAV Web Service Programming Resources
-date: 2015-04-08
-thumbnail: https://s3.amazonaws.com/ptsteadman-images/NAV.jpg
-category: "Dynamics NAV"
+title: News3_unproposed
+date: XXXXX-XX-XX
+thumbnail: https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png
+category: "XXXX"
 tags:
-- NAV
-- Resources
-lede: "Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications."
+- XXXX
+- XXXX
+lede: "This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating."
 ---
 
 Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications.

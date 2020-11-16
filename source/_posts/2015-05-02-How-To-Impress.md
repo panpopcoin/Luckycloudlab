@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How To Impress Employers at Infosessions 
-date: 2015-05-02
-thumbnail: https://s3.amazonaws.com/ptsteadman-images/info2.jpg
+title: News2_unproposed
+date: XXXX-XX-XX
+thumbnail: https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png
 category: Humor
 tags: 
-- funny
-- employment
+- xxxx
+- xxxx
 lede: "Top tech talent knows that industry recruiters often bring a stack of
 pre-negotiated offers to university infosessions, so that they can snag
 programmers and UX designers who really stand out."
