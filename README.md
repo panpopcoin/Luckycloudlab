@@ -1,5 +1,11 @@
 # Lucky Cloud
 
+## Clone
+
+```bash
+git clone --recurse-submodules https://github.com/AbyssLink/lucky_cloud
+```
+
 ## Development
 
 run with hexo
@@ -22,4 +28,4 @@ bash run.sh
 
 then open in browser:
 
-http://ip-address
+http://your-ip-address
