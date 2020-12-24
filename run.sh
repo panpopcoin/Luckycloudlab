@@ -1,4 +1,8 @@
+# generate public files
+yarn install
+hexo generate
+
 # build image
-docker build -t hexo-nginx .
+docker build --no-cache -t hexo-nginx .
 # run docker container
-docker run --name test-nginx -p 80:80 -d hexo-nginx
+docker run --rm --name test-nginx -p 80:80 -d hexo-nginx

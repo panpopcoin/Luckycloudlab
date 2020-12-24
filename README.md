@@ -11,6 +11,7 @@ git clone --recurse-submodules https://github.com/AbyssLink/lucky_cloud
 run with hexo
 
 ```bash
+yarn install
 hexo server
 ```
 
