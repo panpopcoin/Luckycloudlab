@@ -3,10 +3,9 @@ layout: post
 title: News2_unproposed
 date: XXXX-XX-XX
 thumbnail: https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png
-category: Humor
+category: Team building
 tags: 
-- xxxx
-- xxxx
+- 2020
 lede: "Top tech talent knows that industry recruiters often bring a stack of
 pre-negotiated offers to university infosessions, so that they can snag
 programmers and UX designers who really stand out."

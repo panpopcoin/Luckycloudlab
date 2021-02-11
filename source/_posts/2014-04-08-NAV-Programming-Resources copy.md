@@ -3,10 +3,9 @@ layout: post
 title: News3_unproposed
 date: XXXXX-XX-XX
 thumbnail: https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png
-category: "XXXX"
+category: "Awarded"
 tags:
-- XXXX
-- XXXX
+- 2019
 lede: "This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating."
 ---
 
