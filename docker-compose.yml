@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  web:
+    image: nginx
+    ports:
+      - 80:80
+    environment:
+      - SERVER_ADDR=backend:4000
+    volumes:
+      - ./nginx/nginx.conf:/tmp/nginx.conf
+      - ./nginx/startup.sh:/root/nginx/startup.sh
+    command: /bin/bash /root/nginx/startup.sh
+    depends_on:
+      - backend
+  backend:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: hexo/server
