@@ -3,7 +3,7 @@
 ## Clone
 
 ```bash
-git clone --recurse-submodules https://github.com/AbyssLink/lucky_cloud
+git clone --recurse-submodules https://github.com/HansenBurger/Luckycloudlab
 ```
 
 ## Development
