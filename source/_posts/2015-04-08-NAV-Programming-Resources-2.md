@@ -1,12 +1,12 @@
 ---
 layout: post
-title: News3_unproposed
-date: XXXXX-XX-XX
+title: Nav programming resources 2
+date: 2015-04-08
 thumbnail: https://www.signfix.com.au/wp-content/uploads/2017/09/placeholder-600x400.png
 category: "Awarded"
 tags:
 - 2019
-lede: "This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating."
+lede: "This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating.This is an example for continuous updating."
 ---
 
 Here are some of the resources I found helpful for learning to develop Dynamics NAV web service based applications.
