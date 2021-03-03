@@ -14,4 +14,6 @@ RUN set -ex \
   && npm install \
   && hexo clean 
 
+EXPOSE 4000
+
 CMD hexo server
