@@ -10,8 +10,8 @@ COPY _config.yml /hexo/
 
 RUN set -ex \
   env && \
-  npm install hexo-cli -g \
-  && npm install \
+  npm install hexo-cli -g --registry=https://registry.npm.taobao.org \
+  && npm install --registry=https://registry.npm.taobao.org \
   && hexo clean 
 
 EXPOSE 4000
