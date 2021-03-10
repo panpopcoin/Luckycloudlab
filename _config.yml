@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://example.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:category/:id/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -68,7 +68,10 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
+## In order to make Chinese group name displayed in the URL for the English, we can create a grouping Name Mapping (category_map):
 category_map:
+  研究工作: research
+  新闻: news
 tag_map:
 
 # Metadata elements
