@@ -1,0 +1,9 @@
+# Ignore everything:
+**
+
+# Except:
+!scaffolds
+!source
+!themes
+!package.json
+!_config.yml
