@@ -2,7 +2,7 @@
 
 ## Clone
 
-```bash
+```shell
 git clone --recurse-submodules https://github.com/HansenBurger/Luckycloudlab
 ```
 
@@ -10,7 +10,7 @@ git clone --recurse-submodules https://github.com/HansenBurger/Luckycloudlab
 
 run with hexo
 
-```bash
+```shell
 yarn install
 hexo server
 ```
@@ -23,14 +23,24 @@ then open in browser:
 
 run with docker-compose
 
-```bash
+```shell
 # create and start containers, run in daemon
 docker-compose up -d
 ```
 
+run with docker-compose when docker image need to be updated:
+
+```shell
+docker-compose up --build --force-recreate --no-deps -d
+```
+
+then open in browser:
+
+<http://{your-domain}>
+
 other useful command:
 
-```bash
+```shell
 # (see docker container log)
 # create and start containers
 docker-compose up
@@ -44,7 +54,3 @@ docker-compose down
 # see container log
 docker-compose log <container_id>
 ```
-
-then open in browser:
-
-<http://your-ip-address>
