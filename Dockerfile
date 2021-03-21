@@ -12,8 +12,9 @@ RUN set -ex \
   env && \
   npm install hexo-cli -g --registry=https://registry.npm.taobao.org \
   && npm install --registry=https://registry.npm.taobao.org \
-  && hexo clean 
+  && hexo clean \
+  && hexo generate
 
 EXPOSE 4000
 
-CMD hexo server
+CMD ["hexo", "server", "-s"]
