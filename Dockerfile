@@ -13,4 +13,4 @@ RUN set -ex \
 
 EXPOSE 4000
 
-CMD ["hexo", "server", "-s"]
+CMD ["hexo", "server"]
